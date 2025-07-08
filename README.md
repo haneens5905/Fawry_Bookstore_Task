@@ -98,5 +98,5 @@ Current Books in Inventory:
 PaperBook: "C++ Foundations" (2010). Price: 2500 LE, Stock: 3
 EBook: "Mastering STL" (2022). Price: 5000 LE
 
-## 🖼 Sample Output Screenshot
+## Sample Output Screenshot
 https://github.com/haneens5905/Fawry_Bookstore_Task/blob/main/bookstore_running.png?raw=true
